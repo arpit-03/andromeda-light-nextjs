@@ -159,22 +159,16 @@ const HomeBanner = ({ banner: bannerData, brands }) => {
                     "h1",
                     "mb-8 banner-title opacity-0"
                   )}
-                  <div className="banner-btn opacity-0">
-                    <Link
-                      className="btn btn-primary"
-                      href={bannerData.link.href}
-                    >
-                      {bannerData.link.label}
-                    </Link>
-                  </div>
+                
                 </div>
                 <div className="col-10">
                   <ImageFallback
-                    className="banner-img opacity-0"
+                    className="banner-img opacity-0 border-20"
                     src={bannerData.image}
                     width={1170}
                     height={666}
                     priority={true}
+                    
                     alt=""
                   />
                 </div>

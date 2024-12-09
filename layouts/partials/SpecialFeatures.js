@@ -15,7 +15,7 @@ const SpecialFeatures = ({ speciality }) => {
               alt="primary speciality"
             />
           </div>
-          <div className="animate lg:col-5 lg:order-1">
+          <div className="animate lg:col-5 lg:order-1 mt-5">
             <p>{speciality.primary.subtitle}</p>
             {markdownify(
               speciality.primary.title,
@@ -25,7 +25,7 @@ const SpecialFeatures = ({ speciality }) => {
             {markdownify(speciality.primary.description, "p", "mt-10")}
           </div>
         </div>
-        <div className="row items-center">
+        <div className="row items-center mt-10">
           <div className="animate lg:col-6">
             <ImageFallback
               className="mx-auto"

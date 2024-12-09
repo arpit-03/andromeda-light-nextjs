@@ -78,7 +78,7 @@ const Contact = ({ data }) => {
                 >
                   Message
                 </label>
-                <textarea className="form-textarea w-full" rows="6" />
+                <textarea name="message"  className="form-textarea w-full" rows="6" />
               </div>
               <button className="btn btn-primary block w-full">
                 Submit Now

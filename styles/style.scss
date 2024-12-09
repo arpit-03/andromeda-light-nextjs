@@ -4,6 +4,7 @@
 
 @layer base {
   @import "base";
+  @import url('https://fonts.cdnfonts.com/css/modular');
 }
 
 @layer components {
@@ -21,3 +22,14 @@
   @import 'swiper/scss/pagination';
   @import './swiper.scss';
 }
+
+
+
+.border-20{
+  border-radius: 40px;
+}
+
+body {
+  font-family: 'MODULAR', sans-serif;
+}
+

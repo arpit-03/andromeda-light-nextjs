@@ -269,7 +269,7 @@ const About = ({ data }) => {
           </div>
           <div className="row justify-center">
             <div className="lg:col-10">
-              <div className="row">
+              <div className="row justify-center">
                 {our_member.list.map((member, index) => (
                   <div
                     key={("member-", index)}

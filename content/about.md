@@ -5,44 +5,44 @@ draft: false
 
 ## about us
 about_us:
-  subtitle: WHO WE ARE
-  title: Hello, We’re Andromeda Here For Your Help
-  content: Your online Health & Fitness companion that offers free assistance on its Facebook Group and provides quality paid guided personal training packages by and through website. We are the first ever, online manifesto in Bangladesh to make place you will select when you think of getting fit
-  image: /images/about/01.jpg
+  subtitle: ""
+  title: "WHO WE ARE"
+  content: CHARGENX is a forward-thinking technology partner, delivering innovative IT, AI, and ML solutions. Our dedicated experts empower businesses with data-driven insights, seamless scalability, and transformative digital experiences, ensuring sustained growth in an ever-evolving market.
+  image: /images/about/01.png
 
 ## our works
 works:
   subtitle: OUR WORKS
   title: What We Do
   list:
-    - title: Building A New Class
-      content: Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems
-    - title: Design For Anyone
-      content: Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems
-    - title: Creative Flair Design
-      content: Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems
-    - title: Building Products
-      content: Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems
+    - title: Custom Software Development
+      content: We craft tailored software solutions designed for scalability, efficiency, and long-term value. Our expert team optimizes applications, ensuring seamless integration and measurable business growth.
+    - title: AI & ML Solutions
+      content: Leverage advanced AI and ML models to automate processes, discover actionable insights, and enhance decision-making. We empower organizations to thrive in data-driven markets.
+    - title: Cybersecurity & Data Protection
+      content: Safeguard valuable digital assets with robust cybersecurity strategies. Our proactive measures mitigate risks, ensure compliance, and maintain trust in an ever-changing digital environment.
+    - title: Digital Transformation Consulting
+      content: Accelerate your digital journey with expert consulting. We streamline operations, integrate emerging technologies, and foster innovation, positioning your business for sustained competitive advantage.
 
 ## our mission
 mission:
   subtitle: OUR MISSION
   title: Main Vision And Mission Of Our Company
   content: We were freelance designers and developers, constantly finding ourselve deep vague feedback. leaving a notes from the sticky note piece .
-  image: /images/about/02.jpg
+  image: /images/about/02.png
 
 ## short video
 video:
   subtitle: A SHORT VIDEO
-  title: You Take Care Of The Payments, We Take Care Of The Rest.
-  description: Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistcy throughout the.
-  video_id: dyZcRRWiuuw
-  thumbnail: /images/about/video-popup-2.jpg
+  title: Tailored to your needs through tech
+  description: At CHARGENX, we envision a future driven by innovative software solutions, AI, and ML technologies. Our mission empowers businesses with secure tools that foster growth and efficiency
+  video_id: tn0XpTAD_8Q
+  thumbnail: /images/about/video-popup.webp
 
 ## clients
 clients:
   subtitle: OUR CLIENTS
-  title: Trusted By Thousands Companies
+  title: Trusted By Hundred + Companies
   brands:
     - /images/brands/01-colored.png
     - /images/brands/02-colored.png
@@ -50,6 +50,9 @@ clients:
     - /images/brands/04-colored.png
     - /images/brands/05-colored.png
     - /images/brands/06-colored.png
+    - /images/brands/01-colored.png
+    - /images/brands/02-colored.png
+    - /images/brands/03-colored.png
     - /images/brands/04-colored.png
     - /images/brands/05-colored.png
     - /images/brands/06-colored.png
@@ -59,36 +62,21 @@ clients:
 our_member:
   subtitle: OUR MEMBERS
   title: The People Behind
-  content: We were freelance designers and developers, constantly finding </br> ourselves deep in vague feedback. This made every client and team
+  content: At ARCING CHARGENX, our team of experienced developers, AI specialists, and data analysts collaborates tirelessly to <br/> transform your vision into practical, innovative solutions, ensuring your business thrives in the ever-evolving digital landscape.
   list:
-    - name: Valentin Staykov
-      field: Operations
+    - name: Arpit Sachdeva
+      field: CEO
       image: /images/about/team/01.jpg
-    - name: Bukiakta Bansalo
-      field: Product
-      image: /images/about/team/02.jpg
-    - name: Ortrin Okaster
-      field: Engineering
-      image: /images/about/team/03.jpg
 
 ## office
 our_office:
-  subtitle: OUR OFFICES
+  subtitle: OUR OFFICE
   title: Made With Love Of Around The </br> World With Many Offices
-  content: We were freelance designers and developers, constantly finding </br> ourselves deep in vague feedback. This made every client and team
+  content: Our office, located in India, <br/> serves as our innovation hub. Here, we collaborate closely with clients, deliver cutting-edge solutions, and drive sustainable growth in an environment fostering creativity and excellence.
   countries:
-    - flag: /images/about/flags/us.png
-      name: NewYork, USA
-      location: 219 Bald Hill Drive Oakland Gardens, NY 11364
-    - flag: /images/about/flags/au.png
-      name: Australia, Perth
-      location: Flat 23 80 Anthony Circlet Port Guiseppe, TAS 2691
-    - flag:  /images/about/flags/germany.png
-      name: Berlin, Germany
-      location: Jl Raya Dewi Sartika Ged Harapan Masa, Br Germeny
-    - flag:  /images/about/flags/china.png
-      name: China, Wohan
-      location: 1hao Wen Ti Huo Dong Zhong Xin 1ceng Jian Xing
+    - flag: /images/about/flags/india.webp
+      name: Delhi , India
+      location: D-10/2 Sector 8 Rohini Delhi 110085
 
 ---
 

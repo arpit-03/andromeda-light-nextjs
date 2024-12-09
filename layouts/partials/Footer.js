@@ -13,19 +13,19 @@ const Footer = () => {
     <footer className="">
       <div className="container">
         <div className="row border-y border-border py-12">
-          <div className="animate md:col-6 lg:col-3">
+          <div className=" md:col-6 lg:col-3">
             <Logo />
             {markdownify(footer_content, "p", "mt-3")}
           </div>
-          <div className="animate mt-8 md:col-6 lg:col-3 lg:mt-0">
+          <div className="mt-8 md:col-6 lg:col-3 lg:mt-0">
             <h3 className="h5">Socials</h3>
             <div className="mt-5">
               {email && <Link href={`mailto:${email}`}>{email}</Link>}
               {/* social icons */}
-              <Social source={social} className="social-icons mt-5" />
+              {/* <Social source={social} className="social-icons mt-5" /> */}
             </div>
           </div>
-          <div className="animate mt-8 md:col-6 lg:col-3 lg:mt-0">
+          <div className="mt-8 md:col-6 lg:col-3 lg:mt-0">
             <h3 className="h5">Quick Links</h3>
             {/* footer menu */}
             <ul className="mt-5 leading-10">
@@ -41,7 +41,7 @@ const Footer = () => {
               ))}
             </ul>
           </div>
-          <div className="animate mt-8 md:col-6 lg:col-3 lg:mt-0">
+          <div className="mt-8 md:col-6 lg:col-3 lg:mt-0">
             <h3 className="h5">Location & Contact</h3>
             <ul className="mt-5 leading-10">
               <li>{markdownify(location)}</li>

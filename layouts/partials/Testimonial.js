@@ -21,12 +21,12 @@ const Testimonial = ({ testimonial }) => {
           <div className="xl:col-11">
             <div className="row items-center justify-center">
               <div className="hidden lg:col-3 xl:col-4 lg:block">
-                <ImageFallback
+                {/* <ImageFallback
                   src="/images/testimonials-01.png"
                   width={455}
                   height={522}
                   alt="testimonials"
-                />
+                /> */}
               </div>
               <div className="md:col-7 lg:col-6 xl:col-4">
                 {
@@ -82,12 +82,12 @@ const Testimonial = ({ testimonial }) => {
                 </div>
               </div>
               <div className="hidden lg:col-3 xl:col-4 lg:block">
-                <ImageFallback
+                {/* <ImageFallback
                   src="/images/testimonials-02.png"
                   width={455}
                   height={522}
                   alt="testimonials"
-                />
+                /> */}
               </div>
             </div>
           </div>

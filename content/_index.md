@@ -1,6 +1,6 @@
 ---
 banner:
-  title: "Andromeda is the most intuitive </br> way to prototype Designs"
+  title: "ChargeNX: Accelerating Innovation with <br/>Cutting-Edge AI and IT Solution"
   image: /images/banner-app.png
   link:
     label: Get Premium Version
@@ -14,54 +14,62 @@ brands:
   - /images/brands/04-colored.png
   - /images/brands/05-colored.png
   - /images/brands/06-colored.png
+  - /images/brands/01-colored.png
+  - /images/brands/02-colored.png
+  - /images/brands/03-colored.png
   - /images/brands/04-colored.png
   - /images/brands/05-colored.png
   - /images/brands/06-colored.png
 
 #features
 features:
-  sub_title: SPECIAL FEATURES
-  title: Elements To </br> Get You Started
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  sub_title: ""
+  title: Innovative IT, AI & ML Solutions
+  description: Transforming businesses with advanced IT infrastructure, AI-driven insights, <br/> and ML-powered automation for smarter, faster, and scalable solutions.
   list:
-    - icon: 'lock' # feather icon: https://feathericons.com/
-      title: Updated Security
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: 'wind'
-      title: Magnetic Turning
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
+    - icon: 'globe' # feather icon: https://feathericons.com/
+      title: Custom SEO-Friendly Website Development
+      content: Build high-performance, mobile-responsive websites optimized for search. Our SEO-driven approach enhances user experience, boosts rankings, and drives measurable online growth.
+    - icon: 'aperture'
+      title: AI Model Development for Intelligent Business Solutions
+      content: Develop tailored AI models to streamline operations, predict trends, and automate decisions. Our data-driven solutions foster innovation, reduce costs, and accelerate digital transformation.
+    - icon: 'airplay'
+      title: Machine Learning Model Development for Predictive Analytics
+      content: Leverage advanced ML models to forecast outcomes, improve personalization, and refine strategies. We turn your data into actionable insights that fuel sustainable growth.
+    - icon: 'search'
+      title: Expert SEO & SEM Management Services
+      content: Amplify brand visibility with targeted SEO and SEM campaigns. Our strategies attract qualified leads, boost rankings, and deliver meaningful ROI in competitive digital markets.
+    - icon: 'crop'
+      title: User-Centric Wireframing & Prototyping
+      content: Transform concepts into intuitive prototypes focused on user experience. We streamline the design process, reduce development costs, and ensure seamless digital interactions.
+    - icon: 'database'
+      title: Data Analytics & Insights for Strategic Decisions
+      content: Convert raw data into clear, actionable insights. Our analytics solutions guide evidence-based decisions, improve performance, and drive long-term success.
+    - icon: 'monitor'
+      title: Comprehensive Software Testing for Quality Assurance
+      content: Identify and resolve issues before launch. Our rigorous testing ensures reliable performance, stable releases, and exceptional user satisfaction to protect your brand reputation.
     - icon: 'shield'
-      title: Secured & up-to-date
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: 'link'
-      title: Instant Link Sharing
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: 'lock'
-      title: Updated Security
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: 'wind'
-      title: Magnetic Turning
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-
+      title: Cybersecurity & Security Measurement Services
+      content: Safeguard valuable assets with proactive cybersecurity measures. We detect vulnerabilities, implement robust defenses, and ensure compliance to secure your digital environment.
 #intro
 intro:
-  title: Built Exclusively For You
-  subtitle: SHORT INTRO VIDEO
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
-  thumbnail: "/images/video-popup.jpg"
-  video_id: dyZcRRWiuuw
+  title: Tailored to your needs through tech
+  subtitle: Our vision and mission
+  description: At CHARGENX, we envision a future driven by innovative software solutions,<br/> AI, and ML technologies. Our mission empowers businesses with secure tools that foster growth and efficiency..
+  thumbnail: "/images/video-popup.webp"
+  video_id: tn0XpTAD_8Q
 
 #speciality
 speciality:
   primary:
-    title: You Will Not Miss Your All Misunderstandings
-    subtitle: PRIMARY SPECIALITY
-    description: Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the.
+    title: Fine-Tuned LLM Models for Intelligent Automation
+    subtitle: ""
+    description: Accelerate innovation with our expertly trained LLM models. We harness cutting-edge AI to streamline workflows, enhance decision-making, and drive exceptional business performance.
     image: /images/features-01.png
   secondary:
-    title: Say Hello To No-Code The Advance Creation
-    subtitle: SECONDARY SPECIALITY
-    description: From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code.
+    title: Tailored Web Development & SEO for Scalable Growth
+    subtitle: ""
+    description: Experience custom-coded, responsive websites optimized for SEO. Our solutions boost search rankings, enhance user engagement, and deliver measurable growth for sustained digital success.
     image: /images/features-02.png
 
 
@@ -69,39 +77,18 @@ speciality:
 testimonial:
   title: OUR TESTIMONIALS
   subtitle: Don’t Take Our Word For It
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  description: Discover how our clients have transformed their businesses through our tailored solutions.<br/> Their success stories highlight our commitment to quality, innovation, and tangible results.
   list:
-    - author: David Cameron
+    - author: Sameer Maini
       avatar: /images/user-img/01.jpg
-      profession: CEO, Nexuspay
-      content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
+      profession: CEO, CollaborationRoom.ai
+      content: ChargeNx’s WebRTC integration transformed our platform, greatly enhancing performance, security, and scalability, allowing us to deliver truly seamless virtual collaboration.
+    - author: Mansha Sachdeva
       avatar: /images/user-img/02.jpg
-      profession: CEO, Nexuspay
-      content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
+      profession: CEO, Joulewise, Buisness Tata Digital
+      content: ARCING CHARGENX’s data-driven approach, secure infrastructure, and AI solutions transformed our electricity trading, enhancing efficiency, improving insights, and fueling gains.
+    - author: Chirag Chawla 
       avatar: /images/user-img/03.jpg
-      profession: CEO, Nexuspay
-      content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
-      avatar: /images/user-img/04.png
-      profession: CEO, Nexuspay
-      content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
-      avatar: /images/user-img/05.jpg
-      profession: CEO, Nexuspay
-      content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
-      avatar: /images/user-img/06.jpg
-      profession: CEO, Nexuspay
-      content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
-      avatar: /images/user-img/07.jpg
-      profession: CEO, Nexuspay
-      content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
-      avatar: /images/user-img/08.jpg
-      profession: CEO, Nexuspay
-      content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
+      profession: As a Senior Software Developer at Deloitte supporting the USAID project, I was impressed by ARCING CHARGENX’s expertise. They delivered a secure, scalable cybersecurity assessment tool, integrating complex requirements seamlessly and significantly improving our operational efficiency and data integrity.
 
 ---
